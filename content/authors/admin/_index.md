@@ -18,7 +18,7 @@ organizations:
   url: "www.shu.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include complex networks, pattern recognition and machine learning. Particularly, I interest in the statistical structural of pattern recognition, statistical mechanics in complex networks and the network neuroscience.
 
 interests:
 - Complex Networks
