@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Jianjia Wang is currently a lecturer at the School of Computer Engineering and Science, Shanghai University, P.R.China. He received the M.Sc. degrees in Electronic Engineering from Hong Kong University of Science and Technology (HKUST) in 2013, and the Ph.D. degree in the Department of Computer Science at the University of York, U.K, in 2018. He worked as a research assistant at Hong Kong Applied Science and Technology Research Institute from 2013 to 2014. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His research interests include statistical and structural pattern recognition, complex networks, information theory, thermodynamic and quantum statistics, especially in graph and network analysis. He is now the reviewer of Pattern Recognition, Pattern Recognition Letters, International Journal of Complex Networks, etc.
