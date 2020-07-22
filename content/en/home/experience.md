@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Shanghai University"
   company_url = ""
   location = "Shanghai"
-  date_start = "2018-12-25"
+  date_start = "Dec 2018"
   date_end = ""
   description = """Teaching and research in computer science and engineering.
   Responsibilities include:
@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "University of York"
   company_url = ""
   location = "York,UK"
-  date_start = "2014-09-01"
-  date_end = "2018-10-31"
+  date_start = "Sep 2014"
+  date_end = "Oct 2018"
   description = ""PhD degree in computer science.""
 
 [[experience]]
@@ -46,8 +46,8 @@ date_format = "Jan 2006"
   company = "Hong Kong Applied Science and Technology Research Institute"
   company_url = ""
   location = "Hong Kong"
-  date_start = "2013-01-01"
-  date_end = "2014-06-31"
+  date_start = "Jan 2013"
+  date_end = "Jun 2014"
   description = ""Research and development in 3D computer vision.""
     
  [[experience]]
@@ -55,8 +55,8 @@ date_format = "Jan 2006"
   company = "Hong Kong University of Science and Technology"
   company_url = ""
   location = "Hong Kong"
-  date_start = "2011-09-01"
-  date_end = "2012-11-31"
+  date_start = "Sep 2011"
+  date_end = "Nov 2012"
   description = ""MSc in electronic engineering.""
   
 +++
