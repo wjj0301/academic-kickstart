@@ -14,7 +14,7 @@ role: Lecturer (Assisant Professor) of Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Shanghai University Email: jianjiawang@shu.edu.cn
+- name: Shanghai University
   url: "www.shu.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
