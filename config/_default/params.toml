@@ -100,11 +100,11 @@ address = {street = "No.99 Shangda Road", city = "Shanghai", region = "SH", post
 coordinates = {latitude = "121.406447", longitude = "31.32315"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Enter Computer Science Building and take the stairs to Office 419 on Floor 4"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+office_hours = ["Monday-Friday 9:00 to 16:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com"
