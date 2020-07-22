@@ -33,10 +33,10 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Ph.D"
+  title = "Doctor of Philosophy"
   company = "University of York"
   company_url = ""
-  location = "York, UK"
+  location = "York,UK"
   date_start = "2014-09-01"
   date_end = "2018-10-31"
   description = """ PhD degree in computer science."""
