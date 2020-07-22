@@ -24,13 +24,13 @@ date_format = "Jan 2006"
   location = "Shanghai"
   date_start = "2018-12-25"
   date_end = ""
-  description = """ Teaching and research in computer science and engineering. """ 
-#  Responsibilities include:
+  description = """Teaching and research in computer science and engineering.
+  Responsibilities include:
   
-#  * Analysing
-#  * Modelling
-#  * Deploying
-#  """
+  * Analysing
+  * Modelling
+  * Deploying
+  """
 
 [[experience]]
   title = "Doctor of Philosophy"
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   location = "York,UK"
   date_start = "2014-09-01"
   date_end = "2018-10-31"
-  description = """ PhD degree in computer science. """ 
+  description = ""PhD degree in computer science.""
 
 [[experience]]
   title = "Project Engineer"
@@ -48,9 +48,8 @@ date_format = "Jan 2006"
   location = "Hong Kong"
   date_start = "2013-01-01"
   date_end = "2014-06-31"
-  description = """ Research and development in 3D computer vision. """
-  
-  
+  description = ""Research and development in 3D computer vision.""
+    
  [[experience]]
   title = "Master in Science"
   company = "Hong Kong University of Science and Technology"
@@ -58,6 +57,6 @@ date_format = "Jan 2006"
   location = "Hong Kong"
   date_start = "2011-09-01"
   date_end = "2012-11-31"
-  description = """ MSc in electronic engineering. """
+  description = ""MSc in electronic engineering.""
   
 +++
