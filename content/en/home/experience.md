@@ -40,6 +40,7 @@ date_format = "Jan 2006"
   date_start = "2014-09-01"
   date_end = "2018-10-31"
   description = """ PhD degree in computer science."""
+  """
 
 [[experience]]
   title = "Project Engineer"
@@ -49,6 +50,7 @@ date_format = "Jan 2006"
   date_start = "2013-01-01"
   date_end = "2014-06-31"
   description = """ Research and development in 3D computer vision. """
+  """
   
  [[experience]]
   title = "Master in Science"
@@ -58,4 +60,5 @@ date_format = "Jan 2006"
   date_start = "2011-09-01"
   date_end = "2012-11-31"
   description = """ Research and development in 3D computer vision. """
+  """
 +++
