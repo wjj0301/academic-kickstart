@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   location = "York,UK"
   date_start = "2014-09-01"
   date_end = "2018-10-31"
-  description = """ PhD degree in computer science. """
+#  description = """ PhD degree in computer science. """
   """
 
 [[experience]]
