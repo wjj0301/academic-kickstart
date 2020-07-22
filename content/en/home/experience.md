@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   location = "York,UK"
   date_start = "Sep 2014"
   date_end = "Oct 2018"
-  description = ""PhD degree in computer science.""
+  description = "PhD degree in computer science."
 
 [[experience]]
   title = "Project Engineer"
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   location = "Hong Kong"
   date_start = "Jan 2013"
   date_end = "Jun 2014"
-  description = ""Research and development in 3D computer vision.""
+  description = "Research and development in 3D computer vision."
     
  [[experience]]
   title = "Master in Science"
@@ -57,6 +57,6 @@ date_format = "Jan 2006"
   location = "Hong Kong"
   date_start = "Sep 2011"
   date_end = "Nov 2012"
-  description = ""MSc in electronic engineering.""
+  description = "MSc in electronic engineering."
   
 +++
