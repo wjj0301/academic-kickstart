@@ -23,7 +23,9 @@ bio: My research interests include complex networks, pattern recognition and mac
 interests:
 - Complex Networks
 - Pattern Recognition
+- Machine Learning
 - Artificial Intelligence
+- Statistical Mechanics
 
 education:
   courses:
