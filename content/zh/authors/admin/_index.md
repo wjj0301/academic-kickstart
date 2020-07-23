@@ -21,11 +21,11 @@ organizations:
 bio: My research interests include complex networks, pattern recognition and machine learning. Particularly, I interest in the statistical structural of pattern recognition, statistical mechanics in complex networks and the network neuroscience.
 
 interests:
-- Complex Networks
-- Pattern Recognition
-- Machine Learning
-- Artificial Intelligence
-- Statistical Mechanics
+- 复杂网络
+- 模式识别
+- 机器学习
+- 人工智能
+- 统计力学
 
 education:
   courses:
