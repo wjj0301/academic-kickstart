@@ -34,6 +34,16 @@ date_format = "Jan 2006"
   location = "York, UK"
   date_start = "2014-09-01"
   date_end = "2018-10-30"
-  description = """PhD in computer science."""
+  description = """PhD in computer science. Research on the statistical mechanics in complex networks."""
 
+
+[[experience]]
+  title = "Project Engineer"
+  company = "Hong Kong Applied Science and Technology Research Institute"
+  company_url = ""
+  location = "Hong Kong"
+  date_start = "2013-01-01"
+  date_end = "2014-06-30"
+  description = """Research and development with 3D computer vision."""
+  
 +++
