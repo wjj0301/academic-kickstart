@@ -46,4 +46,14 @@ date_format = "Jan 2006"
   date_end = "2014-06-30"
   description = """Research and development with 3D computer vision."""
   
+  
+[[experience]]
+  title = "Master of Science"
+  company = "Hong Kong University of Science and Technology"
+  company_url = ""
+  location = "Hong Kong"
+  date_start = "2011-09-01"
+  date_end = "2012-11-30"
+  description = """MSc in electronic engineering. Research on the pattern recognition and machine learning."""
+  
 +++
