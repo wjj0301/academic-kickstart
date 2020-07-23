@@ -15,34 +15,40 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "medium-m"
-  icon_pack = "fab"
-  name = "Matlab"
-  description = ""
-  
-[[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "Python"
-  description = ""
+  name = "Programming"
+  description = "Matlab, Python, C/C++, Mathematica"
+  
+[[feature]]
+  icon = "medium-m"
+  icon_pack = "fab"
+  name = "Mathematics"
+  description = "Calculus, Statistics, Linear Algebra, Statistical Mechanics, Quantum Mechanics, Thermodynamic"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = ""  
+  name = "Data Science"
+  description = "Scikit-Learn, Pandas, NumPy, Matplotlib, NetworkX, Machine Learning Models"  
   
  [[feature]]
-  icon = ""
-  icon_pack = ""
-  name = "C/C++"
-  description = ""
-  
- [[feature]]
-  icon = "camera-retro"
+  icon = "tools"
   icon_pack = "fas"
-  name = "Latex"
-  description = ""
+  name = "Tools"
+  description = "Git, Pycharm, CodeBlocks, Jupiter Notebook, Texstudio, Latex, Notepad++"
+  
+ [[feature]]
+  icon = "adobe"
+  icon_pack = "fab"
+  name = "Design"
+  description = "Photoshop, Illustrator"
+  
+  [[feature]]
+  icon = "camera"
+  icon_pack = "fas"
+  name = "Social"
+  description = "Wechat, QQ, Weibo, Linkedin, Facebook, twitter, google+"
 
 # Uncomment to use emoji icons.
 # [[feature]]
