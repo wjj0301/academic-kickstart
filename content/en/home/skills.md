@@ -33,8 +33,8 @@ subtitle = ""
   description = ""  
   
  [[feature]]
-  icon = "matlab"
-  icon_pack = "custom"
+  icon = ""
+  icon_pack = ""
   name = "C/C++"
   description = ""
   
