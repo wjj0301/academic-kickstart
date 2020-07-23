@@ -21,16 +21,11 @@ date_format = "Jan 2006"
   title = "Lecturer"
   company = "Shanghai University"
   company_url = ""
-  location = "Shanghai,China"
+  location = "Shanghai, China"
   date_start = "2018-12-25"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = "Teaching and research in computer science and engineering."
+
 
 [[experience]]
   title = "Professor"
