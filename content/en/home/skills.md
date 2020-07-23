@@ -48,7 +48,7 @@ subtitle = ""
   icon = "camera"
   icon_pack = "fas"
   name = "Social"
-  description = "Wechat, QQ, Weibo, Linkedin, Facebook, twitter, google+"
+  description = "Google Scholar, ResearchGate, DBLP, Orcid, IEEE, Wechat, QQ, Weibo, Linkedin, Facebook"
 
 # Uncomment to use emoji icons.
 # [[feature]]
