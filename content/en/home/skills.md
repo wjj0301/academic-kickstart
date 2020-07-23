@@ -18,19 +18,19 @@ subtitle = ""
   icon = "medium-m"
   icon_pack = "fab"
   name = "Matlab"
-  description = "90%"
+  description = ""
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "70%"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = ""  
   
 # [[feature]]
 #  icon = "camera-retro"
