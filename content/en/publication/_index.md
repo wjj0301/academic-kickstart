@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Wang, Jianjia, Richard C. Wilson, and Edwin R. Hancock. Directed and undirected network evolution from Euler–Lagrange dynamics. Pattern Recognition Letters 134 (2020): 135-144.
 
 # View.
 #   1 = List
@@ -10,6 +10,6 @@ view: 1
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "Wang, Jianjia, Richard C. Wilson, and Edwin R. Hancock. Directed and undirected network evolution from Euler–Lagrange dynamics. Pattern Recognition Letters 134 (2020): 135-144."
+  caption: ""
   image: "PRL.jpeg"
 ---
