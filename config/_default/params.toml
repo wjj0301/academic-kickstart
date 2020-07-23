@@ -97,10 +97,10 @@ address = {street = "No.99 Shangda Road", city = "Shanghai", region = "SH", post
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "121.406447", longitude = "31.32315"}
+# coordinates = {latitude = "121.406447", longitude = "31.32315"}
 
 # Directions for visitors to locate you.
-directions = "Enter Computer Science Building to Office 419 on 4th Floor"
+directions = "Office 419, School of Computer Engineering and Science, Shanghai University, Baoshan East Campus"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -258,7 +258,7 @@ plugins_js  = []
 ############################
 ## Maps
 ############################
-[map]
+#[map]
   # To show your address on a map in the Contact widget, enter your latitude and longitude (above)
   # and choose a map provider below.
   #
@@ -273,9 +273,9 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
-  api_key = ""
-  zoom = 15
+#  engine = 2
+#  api_key = ""
+#  zoom = 15
 
 ############################
 ## Marketing
@@ -289,4 +289,4 @@ plugins_js  = []
 ############################
 [cms]
   # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
-  netlify_cms = true
+  netlify_cms = false
