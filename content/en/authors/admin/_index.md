@@ -75,6 +75,6 @@ user_groups:
 - Visitors
 ---
 
-Dr. Jianjia Wang is currently a lecturer at the School of Computer Engineering and Science, Shanghai University, P.R.China. He received the M.Sc. degrees in Electronic Engineering from Hong Kong University of Science and Technology (HKUST) in 2013, and the Ph.D. degree in the Department of Computer Science at the University of York, U.K, in 2018. He worked as a research assistant at Hong Kong Applied Science and Technology Research Institute from 2013 to 2014. 
+Dr. Jianjia Wang is currently a lecturer at the School of Computer Engineering and Science, Shanghai University, P.R.China. He received the Ph.D. degree in the Department of Computer Science at the University of York, U.K in 2018, and the M.Sc. degrees in Electronic Engineering from Hong Kong University of Science and Technology (HKUST) in 2013. He worked as a research assistant at Hong Kong Applied Science and Technology Research Institute from 2013 to 2014. 
 
 His research interests include statistical and structural pattern recognition, complex networks, information theory, thermodynamic and quantum statistics, especially in graph and network analysis. He is now the reviewer of Pattern Recognition, Pattern Recognition Letters, International Journal of Complex Networks, etc. (Email: jianjiawang@shu.edu.cn)
