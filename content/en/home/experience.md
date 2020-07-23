@@ -28,12 +28,12 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Doctor of Philosophy"
+  company = "University of York"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "York, UK"
+  date_start = "2014-09-01"
+  date_end = "2018-10-30"
+  description = """PhD in computer science."""
 
 +++
