@@ -38,7 +38,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Project Engineer"
+  title = "Research Assistant"
   company = "Hong Kong Applied Science and Technology Research Institute"
   company_url = ""
   location = "Hong Kong"
