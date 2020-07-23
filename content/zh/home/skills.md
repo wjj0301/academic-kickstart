@@ -17,37 +17,37 @@ subtitle = ""
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "Programming"
+  name = "编程"
   description = "Matlab, Python, C/C++, Mathematica"
   
 [[feature]]
   icon = "medium-m"
   icon_pack = "fab"
-  name = "Mathematics"
+  name = "数学/理论"
   description = "Calculus, Statistics, Linear Algebra, Statistical Mechanics, Quantum Mechanics, Thermodynamic"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Data Science"
+  name = "数据科学"
   description = "Scikit-Learn, Pandas, NumPy, Matplotlib, NetworkX, Machine Learning Models"  
   
  [[feature]]
   icon = "tools"
   icon_pack = "fas"
-  name = "Tools"
+  name = "工具"
   description = "Git, Pycharm, CodeBlocks, Jupiter Notebook, Texstudio, Latex, Notepad++"
   
  [[feature]]
   icon = "adobe"
   icon_pack = "fab"
-  name = "Design"
+  name = "设计"
   description = "Photoshop, Illustrator"
   
   [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Social"
+  name = "社交"
   description = "Wechat, QQ, Weibo, Linkedin, Facebook, twitter, google+"
 
 # Uncomment to use emoji icons.
