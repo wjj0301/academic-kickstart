@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jianjia Wang
+title: 王健嘉
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer (Assisant Professor) of Computer Science
+role: 计算机工程与科学学院，讲师，硕士生导师
 
 # Organizations/Affiliations
 organizations:
-- name: Shanghai University
+- name: 上海大学
   url: "www.shu.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
@@ -72,6 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Dr. Jianjia Wang is currently a lecturer at the School of Computer Engineering and Science, Shanghai University, P.R.China. He received the M.Sc. degrees in Electronic Engineering from Hong Kong University of Science and Technology (HKUST) in 2013, and the Ph.D. degree in the Department of Computer Science at the University of York, U.K, in 2018. He worked as a research assistant at Hong Kong Applied Science and Technology Research Institute from 2013 to 2014. 
-
-His research interests include statistical and structural pattern recognition, complex networks, information theory, thermodynamic and quantum statistics, especially in graph and network analysis. He is now the reviewer of Pattern Recognition, Pattern Recognition Letters, International Journal of Complex Networks, etc.
+王健嘉，博士，讲师，硕士研究生导师，现就职于上海大学计算机工程与科学学院，主要研究领域为复杂网络、模式识别、机器学习、计算机视觉、热力学与统计力学、类脑计算与人工智能。2012年获得香港科技大学电子工程硕士学位，2018年获得英国约克大学计算机科学博士学位，2013年至2014年在香港应用科技研究院从事科研工作。目前主要从事复杂网络理论、统计物理与复杂性等方面的研究。在Journal of Complex Network、Pattern Recognition Letters、Pattern Recognition、Complexity等国际期刊发表多篇文章。担任国际计算机视觉与模式识别会议（CVPR）、国际模式识别会议（ICPR）、英国机器视觉会议（BMVC）等学术会议的评审，Pattern Recognition 、Pattern Recognition letters、Journal of Complex Network的审稿人。目前是国际电气和电子工程师协会（IEEE）会员、国际模式识别协会（IAPR）会员、英国计算机视觉协会（BMVA）会员。
