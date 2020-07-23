@@ -32,11 +32,17 @@ subtitle = ""
   name = "Statistics"
   description = ""  
   
-# [[feature]]
-#  icon = "camera-retro"
-#  icon_pack = "fas"
-#  name = "Photography"
-#  description = "10%"
+ [[feature]]
+  icon = "matlab"
+  icon_pack = "custom"
+  name = "C/C++"
+  description = ""
+  
+ [[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Latex"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
