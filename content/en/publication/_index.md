@@ -1,5 +1,5 @@
 ---
-title: Directed and undirected network evolution from Euler–Lagrange dynamics
+title: Publications
 
 # View.
 #   1 = List
@@ -11,5 +11,5 @@ view: 2
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "PRL.jpeg"
+  image: ""
 ---
