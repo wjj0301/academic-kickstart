@@ -18,7 +18,7 @@ subtitle = ""
   count = 3
   
   # Choose how many pages you would like to offset by
-  offset = 5
+  offset = 10
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
@@ -67,6 +67,4 @@ subtitle = ""
  css_class = ""
 +++
 
-# {{% alert note %}}
-# Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-# {{% /alert %}}
+
