@@ -79,4 +79,4 @@ I am currently a lecturer (Assistant Professor) in the School of Computer Engine
 
 My research interests include statistical and structural pattern recognition, complex networks, information theory, thermodynamic and quantum statistics, especially in graph and network analysis. I am now the reviewer of Pattern Recognition, Pattern Recognition Letters, International Journal of Complex Networks, etc. 
 
-I am actively looking for motivated postgraduate and undergraduate students working on pattern recognition, machine learning, complex networks, network neuroscience, etc. If you are interested, please send me an e-mail with your CV or drop by my office. I will be happy to talking with you. (Email: jianjiawang@shu.edu.cn)
+I am actively looking for motivated postgraduate and undergraduate students working on pattern recognition, machine learning, complex networks, network neuroscience, etc. If you are interested, please send me an e-mail with your CV or drop by my office. I will be happy talking with you. (Email: jianjiawang@shu.edu.cn)
