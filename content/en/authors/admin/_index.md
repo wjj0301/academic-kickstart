@@ -34,7 +34,7 @@ education:
     year: 2014-2018
   - course: MSc in Electronic Engineering
     institution: Hong Kong University of Science and Technology
-    year: 2011-1012
+    year: 2011-2012
   - course: BSc in Automation Engineering
     institution: Nanjing University of Post and Telecommunications
     year: 2007-2011
