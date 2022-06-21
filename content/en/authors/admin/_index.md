@@ -77,6 +77,6 @@ user_groups:
 
 I am currently a lecturer (Assistant Professor) in the School of Computer Engineering and Science, Shanghai University, P.R.China. I received the Ph.D. degree in the Department of Computer Science at the University of York, U.K in 2018, and the M.Sc. degrees in Electronic Engineering from Hong Kong University of Science and Technology (HKUST) in 2013. I worked as a research assistant at Hong Kong Applied Science and Technology Research Institute from 2013 to 2014. 
 
-My research interests include statistical and structural pattern recognition, complex networks, information theory, thermodynamic and quantum statistics, especially in graph and network analysis. I am now the reviewer of Pattern Recognition, Pattern Recognition Letters, International Journal of Complex Networks, etc. 
+My research interests include statistical and structural pattern recognition, complex networks, information theory, thermodynamic and quantum statistics, especially in graph and network analysis. I received the Shanghai Pujiang Talent Award in 2021. I am now the reviewer of Pattern Recognition, Pattern Recognition Letters, CVPR, ICPR, BMVC, ICCV, etc. 
 
 I am actively looking for motivated postgraduate and undergraduate students working on pattern recognition, machine learning, complex networks, network neuroscience, etc. If you are interested, please send me an e-mail with your CV or drop by my office. I will be happy talking with you. (Email: jianjiawang@shu.edu.cn)
