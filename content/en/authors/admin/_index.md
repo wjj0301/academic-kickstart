@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer (Assisant Professor) of Computer Science
+role: Lecturer (Assistant Professor) of Computer Science
 
 # Organizations/Affiliations
 organizations:
